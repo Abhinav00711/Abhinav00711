@@ -1,8 +1,8 @@
 # 💫About Me :
-🌱 I’m currently learning more about Flutter.
-👯 I’m looking to collaborate on Flutter Project.
-📫 How to reach me: Twitter - @Vestrol007 , Instagram - abhinav.0108
-😄 Pronouns: He/His
+🌱 I’m currently learning more about Flutter.  
+👯 I’m looking to collaborate on Flutter Project.  
+📫 How to reach me: Twitter - @Vestrol007 , Instagram - abhinav.0108  
+😄 Pronouns: He/His  
 ⚡ Fun fact: I love gaming.
 
 ## 🌐Socials
