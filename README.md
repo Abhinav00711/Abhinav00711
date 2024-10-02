@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning more about AI/ML.  <br>👯 I’m looking to collaborate on AI Project.  <br>📫 How to reach me: Linkedin - rathiabhinav01 , Instagram - abhinav.0108  <br>😄 Pronouns: He/His  <br>⚡ Fun fact: I love gaming.
+🌱 I’m currently learning more about AI/ML.  <br>👯 I’m looking to collaborate on AI Project. <br>👨🏼‍💻 Visit [My Portfolio](https://abhinav00711.github.io/abhinavrathi/)  <br>📫 How to reach me: Linkedin - rathiabhinav01 , Instagram - abhinav.0108  <br>😄 Pronouns: He/His  <br>⚡ Fun fact: I love gaming.
 
 
 ## 🌐 Socials:
